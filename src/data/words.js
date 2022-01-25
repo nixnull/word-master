@@ -1,4 +1,5 @@
 const words = {
+  rorke: true,
   aahed: true,
   aalii: true,
   aargh: true,
